@@ -1,0 +1,9 @@
+baseURL = "http://campgesher.com.s3-website-us-east-1.amazonaws.com/"
+title = "Camp Gesher"
+
+# googleAnalytics = "UA-123-45"
+enableEmoji = true
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+[permalinks]
+pages = "/:title/"

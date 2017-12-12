@@ -56,6 +56,10 @@ a:hover {
 	right: 50%;
 	margin-left: -50vw;
 	margin-right: -50vw;
+
+	margin-left: calc(-1*var( --rmax)/2);
+	margin-right: calc(-1*var( --rmax)/2);
+    width: var(--rmax);	
 }
 
 #map {

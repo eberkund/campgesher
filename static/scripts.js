@@ -247,6 +247,9 @@ function initMap () {
     // Create a map object, and include the MapTypeId to add
     // to the map type control.
     var map = new google.maps.Map(document.getElementById('map'), {
+        zoomControlOptions: {
+            position: google.maps.ControlPosition.LEFT_CENTER
+        },
         center: { lat: 44.7758898, lng: -77.3795555 },
         zoom: 10,
         draggable: false,

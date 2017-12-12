@@ -7,3 +7,13 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [permalinks]
 pages = "/:title/"
+
+[[menu.main]]
+name = "Donate"
+parent = "Alumni"
+url = "https://canadahelps.org/dn/4502"
+
+[[menu.main]]
+name = "Reconnect"
+parent = "Alumni"
+url = "https://facebook.com/campgesher"

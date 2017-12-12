@@ -201,7 +201,7 @@ footer p {
  */
  blockquote {
 	font-style: italic;
-	padding: 10px;
+	padding: 10px 10px 20px;
 	margin-left: 0;
 	margin-right: 0;
 	background-color: #faebbc;

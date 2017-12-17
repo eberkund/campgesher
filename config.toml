@@ -10,7 +10,6 @@ pages = "/:title/"
 
 [[menu.main]]
 name = "Donate"
-parent = "Alumni"
 url = "https://canadahelps.org/en/dn/4502"
 
 [[menu.main]]

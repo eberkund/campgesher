@@ -4,16 +4,18 @@ title = "Write a Camper"
 parent = "Contact"
 +++
 
+<p>Send a message to a camper by email using the form below.</p>
+
 <form name="write-camper" netlify>
     <div class="form-group">
         <label for="camper-name">Camper Name</label>
-        <input type="text" class="form-control" id="camper-name" placeholder="Enter name" required>
+        <input type="text" class="form-control" id="camper-name" required>
     </div>
 
     <div class="form-group">
         <label for="age-group">Camper Age</label>
         <select name="age-group" id="age-group" class="form-control" required>
-            <option selected></option>
+            <option selected disabled></option>
             <option value="Ofarim">Ofarim (Fawns) - Finished Grades 2 & 3</option>
             <option value="Amelim">Amelim (Workers) - Finished Grade 4</option>
             <option value="Chalutzim">Chalutzim (Pioneers) - Finished Grade 5</option>
@@ -36,5 +38,7 @@ parent = "Contact"
         <textarea name="message" id="message" rows="12" cols="100" class="form-control" required></textarea>
     </div>
 
-    <button class="btn btn-secondary">Send</button>
+    <div class="form-group">
+        <button class="btn btn-secondary">Send</button>
+    </div>
 </form>

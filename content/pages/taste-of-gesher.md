@@ -1,7 +1,7 @@
 +++
-title = "Forms"
+title = "Taste of Gesher"
 [menu.main]
-parent = "Contact"
+parent = "Register"
 +++
 
 - [Taste of Gesher - Info Letter](/docs/2018/taste-gesher-2018-info-flyer.pdf)

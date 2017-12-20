@@ -11,8 +11,14 @@ pages = "/:title/"
 [[menu.main]]
 name = "Donate"
 url = "https://canadahelps.org/en/dn/4502"
+weight = 0
 
 [[menu.main]]
 name = "Reconnect"
 parent = "Alumni"
 url = "https://facebook.com/campgesher"
+
+[[menu.main]]
+name = "Summer Sessions"
+parent = "Register"
+url = "https://gesher.campbrainregistration.com/"

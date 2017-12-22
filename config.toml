@@ -22,3 +22,8 @@ url = "https://facebook.com/campgesher"
 name = "Summer Sessions"
 parent = "Register"
 url = "https://gesher.campbrainregistration.com/"
+
+[[menu.main]]
+name = "Camp Grant"
+parent = "Register"
+url = "https://jewishtoronto.com/cje/camp"

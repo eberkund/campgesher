@@ -19,7 +19,7 @@ parent = "Alumni"
 url = "https://facebook.com/campgesher"
 
 [[menu.main]]
-name = "Summer Sessions"
+name = "Seminars and Camp"
 parent = "Register"
 url = "https://gesher.campbrainregistration.com/"
 

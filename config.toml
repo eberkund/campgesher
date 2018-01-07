@@ -1,7 +1,7 @@
 baseURL = "https://campgesher.com/"
 title = "Camp Gesher"
 
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-41397217-1"
 enableEmoji = true
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 

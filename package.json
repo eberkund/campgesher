@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Erik Berkun-Drevnig <erik.b22@gmail.com>",
   "dependencies": {
+    "ini": "^1.3.5",
     "laravel-mix": "^2.0.0"
   }
 }

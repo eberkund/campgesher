@@ -1,8 +1,9 @@
 {
   "name": "campgesher",
+  "license": "UNLICENSED",
   "version": "1.0.0",
   "author": "Erik Berkun-Drevnig <erik.b22@gmail.com>",
   "dependencies": {
-    "laravel-mix": "^1.4.2"
+    "laravel-mix": "^2.0.0"
   }
 }

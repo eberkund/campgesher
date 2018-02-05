@@ -3,3 +3,8 @@ HUGO_VERSION = "0.31"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.31"
+
+[[redirects]]
+from = "https://campgesher.netlify.com/*"
+to = "https://campgesher.com/:splat"
+force = true

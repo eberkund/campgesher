@@ -10,83 +10,77 @@ Fees includes laundry, a Camp Gesher T-shirt, a camp picture as well as transpo
 <table class="table table-striped">
   <thead>
     <tr>
-      <td colspan="2" class="small-caps"><u>Fee Schedule - Includes 13% HST</u></td>
-      <td colspan="3"><u>Early Registration Discounts</u></td>
-      <td colspan="1"><u>Full Fee</u></td>
+      <th colspan="2" class="small-caps"><u>Fee Schedule - Includes 13% HST</u></th>
+      <th colspan="3"><u>Early Registration Discounts</u></th>
+      <th colspan="1"><u>Full Fee</u></th>
     </tr>
-
     <tr>
-      <td><b>Session</b></td>
-      <td><b>Length</b></td>
-      <td><b>Oct. 1, 2017</b></td>
-      <td><b>Jan. 1, 2018</b></td>
-      <td><b>Mar. 1, 2018</b></td>
-      <td></td>
+      <th><b>Session</b></th>
+      <th><b>Length</b></th>
+      <th><b>Oct. 1, 2017</b></th>
+      <th><b>Jan. 1, 2018</b></th>
+      <th><b>Mar. 1, 2018</b></th>
+      <th></th>
     </tr>
   </thead>
-
-  <tr>
-    <td data-type="Session">1st session</td>
-    <td data-type="Length">July 1 &ndash; July 22, 2018</td>
-    <td data-type="Oct. 1, 2017">$3524.38</td>
-    <td data-type="Jan. 1, 2018">$3599.37</td>
-    <td data-type="Mar. 1, 2018">$3674.35</td>
-    <td data-type="Final">$3749.34</td>
-  </tr>
-
-  <tr>
-    <td data-type="Session">2nd session</td>
-    <td data-type="Length">July 25 &ndash; Aug. 19, 2018</td>
-    <td data-type="Oct. 1, 2017">$4195.69</td>
-    <td data-type="Jan. 1, 2018">$4284.96</td>
-    <td data-type="Mar. 1, 2018">$4374.23</td>
-    <td data-type="Final">$4463.50</td>
-  </tr>
-
-  <tr>
-    <td data-type="Session">Full session</td>
-    <td data-type="Length">July 1 &ndash; Aug. 19, 2018</td>
-    <td data-type="Oct. 1, 2017">$5920.96</td>
-    <td data-type="Jan. 1, 2018">$6046.94</td>
-    <td data-type="Mar. 1, 2018">$6172.91</td>
-    <td data-type="Final">$6298.89</td>
-  </tr>
-
-  <tr>
-    <td data-type="Session">Madatz*</td>
-    <td data-type="Length">June 29 &ndash; Aug. 19, 2018</td>
-    <td data-type="Oct. 1, 2017">$2713.77</td>
-    <td data-type="Jan. 1, 2018">$2771.51</td>
-    <td data-type="Mar. 1, 2018">$2829.25</td>
-    <td data-type="Final">$2886.99</td>
-  </tr>
-
-  <tr>
-    <td data-type="Session">Ofarim Aleph**</td>
-    <td data-type="Length">July 25 &ndash; Aug. 5, 2018</td>
-    <td data-type="Oct. 1, 2017">$1606.11</td>
-    <td data-type="Jan. 1, 2018">$1640.28</td>
-    <td data-type="Mar. 1, 2018">$1674.46</td>
-    <td data-type="Final">$1708.63</td>
-  </tr>
-
-  <tr>
-    <td data-type="Session">Ofarim Bet**</td>
-    <td data-type="Length">Aug. 5 &ndash; Aug. 19, 2018</td>
-    <td data-type="Oct. 1, 2017">$2044.14</td>
-    <td data-type="Jan. 1, 2018">$2087.63</td>
-    <td data-type="Mar. 1, 2018">$2131.12</td>
-    <td data-type="Final">$2174.62</td>
-  </tr>
-
-  <tr>
-    <td data-type="Session">Ofarim Full**</td>
-    <td data-type="Length">July 25 &ndash; Aug. 19, 2018</td>
-    <td data-type="Oct. 1, 2017">$2936.98</td>
-    <td data-type="Jan. 1, 2018">$2999.47</td>
-    <td data-type="Mar. 1, 2018">$3061.96</td>
-    <td data-type="Final">$3124.45</td>
-  </tr>
+  <tbody>
+    <tr>
+      <td data-type="Session">1st session</td>
+      <td data-type="Length">July 1 &ndash; July 22, 2018</td>
+      <td data-type="Oct. 1, 2017">$3524.38</td>
+      <td data-type="Jan. 1, 2018">$3599.37</td>
+      <td data-type="Mar. 1, 2018">$3674.35</td>
+      <td data-type="Final">$3749.34</td>
+    </tr>
+    <tr>
+      <td data-type="Session">2nd session</td>
+      <td data-type="Length">July 25 &ndash; Aug. 19, 2018</td>
+      <td data-type="Oct. 1, 2017">$4195.69</td>
+      <td data-type="Jan. 1, 2018">$4284.96</td>
+      <td data-type="Mar. 1, 2018">$4374.23</td>
+      <td data-type="Final">$4463.50</td>
+    </tr>
+    <tr>
+      <td data-type="Session">Full session</td>
+      <td data-type="Length">July 1 &ndash; Aug. 19, 2018</td>
+      <td data-type="Oct. 1, 2017">$5920.96</td>
+      <td data-type="Jan. 1, 2018">$6046.94</td>
+      <td data-type="Mar. 1, 2018">$6172.91</td>
+      <td data-type="Final">$6298.89</td>
+    </tr>
+    <tr>
+      <td data-type="Session">Madatz*</td>
+      <td data-type="Length">June 29 &ndash; Aug. 19, 2018</td>
+      <td data-type="Oct. 1, 2017">$2713.77</td>
+      <td data-type="Jan. 1, 2018">$2771.51</td>
+      <td data-type="Mar. 1, 2018">$2829.25</td>
+      <td data-type="Final">$2886.99</td>
+    </tr>
+    <tr>
+      <td data-type="Session">Ofarim Aleph**</td>
+      <td data-type="Length">July 25 &ndash; Aug. 5, 2018</td>
+      <td data-type="Oct. 1, 2017">$1606.11</td>
+      <td data-type="Jan. 1, 2018">$1640.28</td>
+      <td data-type="Mar. 1, 2018">$1674.46</td>
+      <td data-type="Final">$1708.63</td>
+    </tr>
+    <tr>
+      <td data-type="Session">Ofarim Bet**</td>
+      <td data-type="Length">Aug. 5 &ndash; Aug. 19, 2018</td>
+      <td data-type="Oct. 1, 2017">$2044.14</td>
+      <td data-type="Jan. 1, 2018">$2087.63</td>
+      <td data-type="Mar. 1, 2018">$2131.12</td>
+      <td data-type="Final">$2174.62</td>
+    </tr>
+    <tr>
+      <td data-type="Session">Ofarim Full**</td>
+      <td data-type="Length">July 25 &ndash; Aug. 19, 2018</td>
+      <td data-type="Oct. 1, 2017">$2936.98</td>
+      <td data-type="Jan. 1, 2018">$2999.47</td>
+      <td data-type="Mar. 1, 2018">$3061.96</td>
+      <td data-type="Final">$3124.45</td>
+    </tr>
+  </tbody>
 </table>
 
 *For campers who will finish Grade 11 prior to summer  

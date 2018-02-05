@@ -15,11 +15,11 @@ Fees includes laundry, a Camp Gesher T-shirt, a camp picture as well as transpo
       <th colspan="1"><u>Full Fee</u></th>
     </tr>
     <tr>
-      <th><b>Session</b></th>
-      <th><b>Length</b></th>
-      <th><b>Oct. 1, 2017</b></th>
-      <th><b>Jan. 1, 2018</b></th>
-      <th><b>Mar. 1, 2018</b></th>
+      <th>Session</th>
+      <th>Length</th>
+      <th>Oct. 1, 2017</th>
+      <th>Jan. 1, 2018</th>
+      <th>Mar. 1, 2018</th>
       <th></th>
     </tr>
   </thead>

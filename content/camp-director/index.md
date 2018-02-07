@@ -1,8 +1,9 @@
-+++
-title = "Camp Director"
-[menu.main]
-parent = "About"
-+++
+---
+title: "Camp Director"
+menu:
+  main:
+    parent: "About"
+---
 
 <img src="shaul-zobary.jpg" class="float-right w-25 ml-4 mb-4 rounded">
 

@@ -1,11 +1,10 @@
----
-title: "Camp Director"
-menu:
-  main:
-    parent: "About"
----
++++
+title = "Camp Director"
+[menu.main]
+parent = "About"
++++
 
-<img src="shaul-zobary.jpg" class="float-right w-25 ml-4 mb-4 rounded">
+<img src="shaul-zobary.jpg" class="float-right w-25 ml-4 mb-4 rounded" alt="Shaul Zobary">
 
 Welcome to Camp Gesher! For the past eighteen summers I've had the pleasure of calling Gesher my home. From the start, my goal was to create an environment which is warm, loving, hospitable, and inclusive. Overnight camp offers a unique opportunity for your child to reflect, learn, mature, and gain independence; Gesher provides the supportive surrounding and staff to help your child achieve those goals.
 
@@ -19,6 +18,6 @@ My own children attended Gesher as campers, and all three of them agree that the
 
 We welcome you to come and join our family. If you have any questions please feel free to email me at [shaul.zobary@campgesher.com](mailto:shaul.zobary@campgesher.com).
 
-Sincerely,  
-Shaul Zobary  
+Sincerely,
+Shaul Zobary
 Camp Director

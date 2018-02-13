@@ -18,6 +18,6 @@ My own children attended Gesher as campers, and all three of them agree that the
 
 We welcome you to come and join our family. If you have any questions please feel free to email me at [shaul.zobary@campgesher.com](mailto:shaul.zobary@campgesher.com).
 
-Sincerely,
-Shaul Zobary
+Sincerely,  
+Shaul Zobary  
 Camp Director

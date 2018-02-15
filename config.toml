@@ -1,10 +1,10 @@
 baseURL = "https://campgesher.com/"
 title = "Camp Gesher"
 
+enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-41397217-1"
-enableEmoji = true
-disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [permalinks]
 pages = "/:title/"

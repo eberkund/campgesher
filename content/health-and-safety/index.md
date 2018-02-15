@@ -1,11 +1,10 @@
 +++
 title = "Health & Safety"
-url = "health-and-safety"
 [menu.main]
 parent = "About"
 +++
 
-<img src="/images/IMG_3111-400x266.jpg" class="float-right ml-4 rounded">Camp Gesher's number one priority is the health and safety of your child. Camp Gesher is accredited with the Ontario Camping Association (OCA) and we strictly follow their guidelines. We receive top scores every summer with OCA safety inspections. We are proud to provide a diverse set of programs while maintaining an impeccable health and safety record
+<img src="IMG_3111-400x266.jpg" class="float-right ml-4 rounded">Camp Gesher's number one priority is the health and safety of your child. Camp Gesher is accredited with the Ontario Camping Association (OCA) and we strictly follow their guidelines. We receive top scores every summer with OCA safety inspections. We are proud to provide a diverse set of programs while maintaining an impeccable health and safety record
 
 Each program is designed with multiple checks to ensure health and safety standards are not only met but exceeded. Below are just some of things we do to ensure your child is kept safe and in good spirits throughout the summer:
 

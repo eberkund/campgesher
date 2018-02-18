@@ -1,11 +1,10 @@
 {
     "files.exclude": {
         "**/node_modules": true,
-        "public/**": true
+        "public": true
     },
     "search.exclude": {
         "**/node_modules": true,
-        "**/bower_components": true,
         "public": true
     }
 }

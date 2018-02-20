@@ -15,13 +15,17 @@ h1,h2,h3,h4,h5,h6 {
 	margin-bottom: .75rem;
 }
 
-footer {
+body > footer {
 	background: #525252;
 	height: 180px;
 	width: 100%;
 	bottom: 0;
 	position: absolute;
 	color: white;
+}
+
+body > footer p {
+	margin-bottom: .25rem;
 }
 
 /* Social */
@@ -177,10 +181,6 @@ span[data-toggle="tooltip"] {
 	background-color: #f7f7f7;
 }
 
-footer p {
-	margin-bottom: .25rem;
-}
-
 /**
  * Quotes
  */
@@ -213,6 +213,14 @@ blockquote:after {
 	float: right;
 	margin-right: 10px;
 	content: "\f10e";
+}
+
+blockquote footer {
+    display: inline-block;
+}
+
+blockquote footer:before {
+    content: "\2014";
 }
 
 

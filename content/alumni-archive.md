@@ -5,16 +5,16 @@ parent = "Alumni"
 +++
 
 1955
-: [Camp Revivim](http://youtu.be/xKrsT2ojacE)
+: [Camp Revivim](https://youtu.be/xKrsT2ojacE)
 
 1975
 : [Gesher Alon](/assets/content/docs/archive/1975-gesher-alon.pdf)
 
 1992
-: [Promotional Video](http://youtu.be/cLR9Cwn7cGA)
+: [Promotional Video](https://youtu.be/cLR9Cwn7cGA)
 
 2000
-: [Video Alon](http://youtu.be/-Bp3PA5a6PE)
+: [Video Alon](https://youtu.be/-Bp3PA5a6PE)
 
 2004
 : [Tzevet Song](https://soundcloud.com/campgesher/tzevet-song-2004)
@@ -36,7 +36,7 @@ parent = "Alumni"
 
 2014
 : [Open Mic Night](/assets/content/docs/archive/2014-open-mic.pdf)
-: [Gesher Wedding](http://youtu.be/tgAKIV4aYwE)
+: [Gesher Wedding](https://youtu.be/tgAKIV4aYwE)
 : [Newsletter](/assets/content/docs/archive/2014-newsletter.pdf)
 
 2015

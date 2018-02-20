@@ -12,5 +12,5 @@ We are incredibly lucky to have an amazing alumni community. We know that the ex
 - **Alumni Weekend:** Once a summer we have an Alumni Weekend. This is a great opportunity for you to reconnect with old friends, see the camp in action, and experience programming directly created for our alumni visitors. Alumni Weekend fills up quickly so please contact [alumni@campgesher.com](mailto:alumni@campgesher.com) for the dates of our annual Alumni Weekend and to reserve your spot.
 
 <div class="full-width">
-    <img src="/images/staylor_DSC6194.jpg" class="w-100">
+    <img src="staylor_DSC6194.jpg" class="w-100">
 </div>

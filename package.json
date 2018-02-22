@@ -1,7 +1,14 @@
 {
-  "name": "campgesher",
-  "license": "UNLICENSED",
-  "version": "1.0.0",
-  "author": "Erik Berkun-Drevnig <erik.b22@gmail.com>",
-  "dependencies": {}
+    "name": "campgesher",
+    "license": "UNLICENSED",
+    "version": "1.0.0",
+    "author": "Erik Berkun-Drevnig <erik.b22@gmail.com>",
+    "eslintConfig": {
+        "extends": "eslint:recommended"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "babel-eslint": "^8.2.2",
+        "eslint": "^4.18.1"
+    }
 }

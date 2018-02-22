@@ -89,9 +89,9 @@ img {
 
 #home-header {
 	height: 75vh;
-	background: url('/images/7K4T3935.jpg');
+	background: url('/images/home-bg.jpg');
 	background-size: cover;
-	background-position: 50% 15%;
+	background-position: 50% 60%;
 	/* clip-path: polygon(100% 100%, 100% 0, -400% 0); */
 }
 

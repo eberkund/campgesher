@@ -6,7 +6,8 @@
         {
             "label": "hugo",
             "type": "shell",
-            "command": "hugo serve --disableFastRender"
+            "command": "hugo serve --disableFastRender",
+            "problemMatcher": []
         }
     ]
 }

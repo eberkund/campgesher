@@ -7,6 +7,9 @@ hrefTargetBlank = true
 googleAnalytics = "UA-41397217-1"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
+[imaging]
+quality = 95
+
 [[menu.main]]
 name = "Donate"
 url = "https://canadahelps.org/en/dn/4502"

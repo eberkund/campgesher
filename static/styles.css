@@ -10,7 +10,7 @@ body {
 	font-size: 1.5;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1, h2, h3, h4, h5, h6 {
 	font-family: 'Lato';
 	margin-bottom: .75rem;
 }
@@ -70,29 +70,16 @@ a:hover {
 	height: 500px;
 }
 
-.navbar {
-	border-top: 5px solid #b0e364;
-	box-shadow: 1px 0 2px 2px rgba(42, 42, 42, .25);
-	background: #305d46;
-}
-
-.navbar-brand {
-	font-family: 'Bitter', serif;
-	color: #525252;
-	font-size: 1.6rem;
-	font-weight: 700;
-}
-
 img {
 	max-width: 100%;
 }
 
 #home-header {
-	height: 75vh;
+    height: 75vh;
+    min-height: 400px;
 	background: url('/images/home-bg.jpg');
 	background-size: cover;
-	background-position: 50% 60%;
-	/* clip-path: polygon(100% 100%, 100% 0, -400% 0); */
+	background-position-y: 60%;
 }
 
 #middle {
@@ -121,14 +108,6 @@ img {
 	padding: 0 20px;
 }
 
-/* .post-container a[href^="//"]:after,
-.post-container a[href^="http://"]:after,
-.post-container a[href^="https://"]:after {
-	content: '\f08e';
-	font: normal normal normal 14px/1 FontAwesome;
-	padding-left: 4px;
-} */
-
 .post-container ul {
 	list-style: none;
 }
@@ -142,12 +121,17 @@ img {
 	margin: 10px 8px 9px -14px;
 }
 
+/**
+ * Tooltips
+ */
 span[data-toggle="tooltip"] {
 	border-bottom: 2px solid #ec1537;
 	cursor: pointer;
 }
 
-/* album */
+/**
+ * Album
+ */
 .album {
 	background-image: url('/images/topography.svg');
 }
@@ -222,8 +206,21 @@ blockquote footer:before {
     content: "\2014";
 }
 
+/**
+ * Navigation
+ */
+.navbar {
+	border-top: 5px solid #b0e364;
+	box-shadow: 1px 0 2px 2px rgba(42, 42, 42, .25);
+	background: #305d46;
+}
 
-
+.navbar-brand {
+	font-family: 'Bitter', serif;
+	color: #525252;
+	font-size: 1.6rem;
+	font-weight: 700;
+}
 
 .navbar-dark .navbar-toggler {
     border: none;
@@ -231,12 +228,15 @@ blockquote footer:before {
     outline: none !important;
     cursor: pointer;
 }
-.navbar-toggler .icon-bar+.icon-bar {
+
+.navbar-toggler .icon-bar + .icon-bar {
     margin-top: 4px;
 }
+
 .navbar-toggler:hover {
     background: transparent !important;
 }
+
 .navbar-toggler .icon-bar {
     width: 22px;
     transition: all 0.2s;
@@ -245,23 +245,29 @@ blockquote footer:before {
     border-radius: 1px;
     display: block;
 }
+
 .navbar-toggler .top-bar {
     transform: rotate(45deg);
     transform-origin: 10% 10%;
 }
+
 .navbar-toggler .middle-bar {
     opacity: 0;
 }
+
 .navbar-toggler .bottom-bar {
     transform: rotate(-45deg);
     transform-origin: 10% 90%;
 }
+
 .navbar-toggler.collapsed .top-bar {
     transform: rotate(0);
 }
+
 .navbar-toggler.collapsed .middle-bar {
     opacity: 1;
 }
+
 .navbar-toggler.collapsed .bottom-bar {
     transform: rotate(0);
 }

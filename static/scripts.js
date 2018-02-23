@@ -1,3 +1,6 @@
+/* global google */
+/* global $ */
+
 $(function () {
     $('[data-toggle="tooltip"]').tooltip()
     install()

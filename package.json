@@ -4,7 +4,10 @@
     "version": "1.0.0",
     "author": "Erik Berkun-Drevnig <erik.b22@gmail.com>",
     "eslintConfig": {
-        "extends": "eslint:recommended"
+        "extends": "eslint:recommended",
+        "env": {
+            "browser": true
+        }
     },
     "dependencies": {},
     "devDependencies": {

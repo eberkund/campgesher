@@ -29,3 +29,4 @@ parent = "Contact"
 5. Make a right on Addington Road #4 (the first street) and follow signs to camp
 
 <div id="map" class="full-width"></div>
+<script defer src="//maps.googleapis.com/maps/api/js?key=AIzaSyCGcNfQyA-oI_bh2qLzbjTNMtmEpZwfOsY&callback=initMap"></script>

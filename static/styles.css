@@ -67,7 +67,8 @@ a:hover {
 }
 
 #map {
-	height: 500px;
+    height: 500px;
+    margin-bottom: -1rem;
 }
 
 img {

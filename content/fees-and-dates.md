@@ -5,22 +5,20 @@ url = "fees-and-dates"
 parent = "About"
 +++
 
-Fees includes laundry, a Camp Gesher T-shirt, a camp picture as well as transportation to camp on July 1 or July 25, 2018 and from camp on August 19, 2018 (to and from Toronto and Ottawa).
+Fee includes laundry, a Camp Gesher T-shirt, a camp picture and 13% HST. Transportation to camp on July 1 or July 25, 2018 and from camp on August 19, 2018 (to and from Toronto and Ottawa) is provided.
 
-<table class="table table-striped">
+<table class="table vertical-responsive-table table-striped table-bordered">
   <thead>
     <tr>
-      <th colspan="2" class="small-caps"><u>Fee Schedule - Includes 13% HST</u></th>
-      <th colspan="3"><u>Early Registration Discounts</u></th>
-      <th colspan="1"><u>Full Fee</u></th>
+      <th rowspan="2">Session</th>
+      <th rowspan="2">Length</th>
+      <th colspan="3">Early Registration Discounts</th>
+      <th colspan="1" rowspan="2">Full Fee</th>
     </tr>
     <tr>
-      <th>Session</th>
-      <th>Length</th>
       <th>Oct. 1, 2017</th>
       <th>Jan. 1, 2018</th>
       <th>Mar. 1, 2018</th>
-      <th></th>
     </tr>
   </thead>
   <tbody>

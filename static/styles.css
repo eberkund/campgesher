@@ -272,3 +272,20 @@ blockquote footer:before {
 .navbar-toggler.collapsed .bottom-bar {
     transform: rotate(0);
 }
+
+@media (max-width: 576px) {
+    .vertical-responsive-table thead {
+        display: none;
+    }
+
+    .vertical-responsive-table td {
+        display: block;
+        text-align: right;
+    }
+
+    .vertical-responsive-table td::before {
+        content: attr(data-type);
+        font-weight: bold;
+        float: left;
+    }
+}

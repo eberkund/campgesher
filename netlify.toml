@@ -1,9 +1,9 @@
 [context.production.environment]
-HUGO_VERSION = "0.36"
+HUGO_VERSION = "0.37"
 # GIT_LFS_ENABLED = "true"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.36"
+HUGO_VERSION = "0.37"
 # GIT_LFS_ENABLED = "true"
 
 [[redirects]]

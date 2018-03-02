@@ -24,5 +24,5 @@ We have a cottage nearby. Can we come visit the camp?
 My child does not know anybody going to camp. Can you connect me with a person form his/her bunk?
 : Due to our privacy policy, we are unable to connect you directly with other campers or their parents. However when you register for camp, we will send you some dates of our year-round activities where returning campers from your child’s age group may be in attendance.  While attendance at these activities is strongly recommended, they are not crucial in your child’s success during the summer, as they will make friends on the bus on the way to camp.
 
-Do camper’s leave camp grounds during the summer?
+Do campers leave camp grounds during the summer?
 : Yes. Campers leave to go on <span data-toggle="tooltip" title="Canoe trips">tiyul</span> on one of our close-by lakes. Campers may also go visit a neighbouring farm, do some community service project, go to a close-by town for their group activity <span data-toggle="tooltip" title="Fund trip">kupa trip</span>, or visit the nearby Bon Echo provincial park. Every trip out of camp, we send counsellors as well as lifeguards to ensure the supervision and safety of our campers.

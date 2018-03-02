@@ -14,7 +14,7 @@ Campers may go on a couple field trips during the summer. Past field trips inclu
 
 ## To & From Camp
 
-We make getting to and from camp simple. Below are the addresses of the pick-up/drop-off locations for your children.
+We make getting to and from camp simple. Below are the addresses of the pick-up & drop-off locations for your children.
 
   * **Toronto**  
     The Borochov Centre  

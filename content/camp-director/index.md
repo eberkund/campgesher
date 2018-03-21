@@ -6,7 +6,7 @@ parent = "About"
 
 <img src="shaul-zobary.jpg" class="float-right w-25 ml-4 mb-4 rounded" alt="Shaul Zobary">
 
-Welcome to Camp Gesher! For the past eighteen summers I've had the pleasure of calling Gesher my home. From the start, my goal was to create an environment which is warm, loving, hospitable, and inclusive. Overnight camp offers a unique opportunity for your child to reflect, learn, mature, and gain independence; Gesher provides the supportive surrounding and staff to help your child achieve those goals.
+Welcome to Camp Gesher! For the past twenty summers I've had the pleasure of calling Gesher my home. From the start, my goal was to create an environment which is warm, loving, hospitable, and inclusive. Overnight camp offers a unique opportunity for your child to reflect, learn, mature, and gain independence; Gesher provides the supportive surrounding and staff to help your child achieve those goals.
 
 As a teacher for the past thirty years, I know how important it is for every child to make an emotional connection with at least one person – either another camper or a member of our staff. As we believe this is one of the most significant outcomes of the maturation process, we create many opportunities for our campers to develop lasting relationships both during the summer and throughout the school year.
 

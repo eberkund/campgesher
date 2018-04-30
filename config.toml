@@ -26,6 +26,11 @@ parent = "Register"
 url = "https://gesher.campbrainregistration.com/"
 
 [[menu.main]]
+name = "Israel Weekend"
+parent = "Register"
+url = "https://gesher.campbrainregistration.com/"
+
+[[menu.main]]
 name = "Camp Grant"
 parent = "Register"
 url = "https://jewishtoronto.com/cje/camp"

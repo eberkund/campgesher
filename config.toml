@@ -39,3 +39,13 @@ url = "https://gesher.campbrainregistration.com/"
 name = "Camp Grant"
 parent = "Register"
 url = "https://jewishtoronto.com/cje/camp"
+
+[[menu.main]]
+name = "Guide to Gesher"
+parent = "Preparation"
+url = "/docs/2018/summer-2018-guide-to-gesher.pdf"
+
+[[menu.main]]
+name = "Letter to Parents"
+parent = "Preparation"
+url = "/docs/2018/summer-2018-parents-letter.pdf"

@@ -18,6 +18,9 @@ Mailing Address
 Toronto, Ontario  
 M3H 3X2
 
+To contact the board of directors email [board@campgesher.com](mailto:board@campgesher.com).  
+For the chair of the board email [chairperson@campgesher.com](mailto:chairperson@campgesher.com).
+
 ## During Camping Season <small class="text-muted">June to August</small>
 
 Phone

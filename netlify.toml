@@ -1,10 +1,8 @@
 [context.production.environment]
-HUGO_VERSION = "0.37"
-# GIT_LFS_ENABLED = "true"
+HUGO_VERSION = "0.44"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.37"
-# GIT_LFS_ENABLED = "true"
+HUGO_VERSION = "0.44"
 
 [[redirects]]
 from = "https://campgesher.netlify.com/*"

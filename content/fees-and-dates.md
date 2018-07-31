@@ -5,7 +5,7 @@ url = "fees-and-dates"
 parent = "About"
 +++
 
-Fee includes laundry, a Camp Gesher T-shirt, a camp picture and 13% HST. Transportation to camp on July 1 or July 25, 2018 and from camp on August 19, 2018 (to and from Toronto and Ottawa) is provided.
+Fee includes laundry, a Camp Gesher T-shirt, a camp picture and 13% HST. Transportation to camp on July 1 or July 25, 2019 and from camp on August 19, 2019 (to and from Toronto and Ottawa) is provided.
 
 <table class="table vertical-responsive-table table-striped table-bordered">
   <thead>
@@ -16,67 +16,67 @@ Fee includes laundry, a Camp Gesher T-shirt, a camp picture and 13% HST. Transp
       <th colspan="1" rowspan="2">Full Fee</th>
     </tr>
     <tr>
-      <th>Oct. 1, 2017</th>
-      <th>Jan. 1, 2018</th>
-      <th>Mar. 1, 2018</th>
+      <th>Oct. 1, 2018</th>
+      <th>Jan. 1, 2019</th>
+      <th>Mar. 1, 2019</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td data-type="Session">1st session</td>
-      <td data-type="Length">July 1 &ndash; July 22, 2018</td>
-      <td data-type="Oct. 1, 2017">$3524.38</td>
-      <td data-type="Jan. 1, 2018">$3599.37</td>
-      <td data-type="Mar. 1, 2018">$3674.35</td>
-      <td data-type="Final">$3749.34</td>
+      <td data-type="Length">June 30 &ndash; July 21, 2019</td>
+      <td data-type="Oct. 1, 2018">$3626.77</td>
+      <td data-type="Jan. 1, 2019">$3703.93</td>
+      <td data-type="Mar. 1, 2019">$3781.10</td>
+      <td data-type="Final">$3858.26</td>
     </tr>
     <tr>
       <td data-type="Session">2nd session</td>
-      <td data-type="Length">July 25 &ndash; Aug. 19, 2018</td>
-      <td data-type="Oct. 1, 2017">$4195.69</td>
-      <td data-type="Jan. 1, 2018">$4284.96</td>
-      <td data-type="Mar. 1, 2018">$4374.23</td>
-      <td data-type="Final">$4463.50</td>
+      <td data-type="Length">July 24 &ndash; Aug. 18, 2019</td>
+      <td data-type="Oct. 1, 2018">$4317.58</td>
+      <td data-type="Jan. 1, 2019">$4409.44</td>
+      <td data-type="Mar. 1, 2019">$4501.30</td>
+      <td data-type="Final">$4593.17</td>
     </tr>
     <tr>
       <td data-type="Session">Full session</td>
-      <td data-type="Length">July 1 &ndash; Aug. 19, 2018</td>
-      <td data-type="Oct. 1, 2017">$5920.96</td>
-      <td data-type="Jan. 1, 2018">$6046.94</td>
-      <td data-type="Mar. 1, 2018">$6172.91</td>
-      <td data-type="Final">$6298.89</td>
+      <td data-type="Length">June 30 &ndash; Aug. 18, 2019</td>
+      <td data-type="Oct. 1, 2018">$6092.97</td>
+      <td data-type="Jan. 1, 2019">$6226.60</td>
+      <td data-type="Mar. 1, 2019">$6352.24</td>
+      <td data-type="Final">$6481.88</td>
     </tr>
     <tr>
       <td data-type="Session">Madatz*</td>
-      <td data-type="Length">June 29 &ndash; Aug. 19, 2018</td>
-      <td data-type="Oct. 1, 2017">$2713.77</td>
-      <td data-type="Jan. 1, 2018">$2771.51</td>
-      <td data-type="Mar. 1, 2018">$2829.25</td>
+      <td data-type="Length">June 28 &ndash; Aug. 18, 2019</td>
+      <td data-type="Oct. 1, 2018">$2713.77</td>
+      <td data-type="Jan. 1, 2019">$2771.51</td>
+      <td data-type="Mar. 1, 2019">$2829.25</td>
       <td data-type="Final">$2886.99</td>
     </tr>
     <tr>
       <td data-type="Session">Ofarim Aleph**</td>
-      <td data-type="Length">July 25 &ndash; Aug. 5, 2018</td>
-      <td data-type="Oct. 1, 2017">$1606.11</td>
-      <td data-type="Jan. 1, 2018">$1640.28</td>
-      <td data-type="Mar. 1, 2018">$1674.46</td>
-      <td data-type="Final">$1708.63</td>
+      <td data-type="Length">July 24 &ndash; Aug. 4, 2019</td>
+      <td data-type="Oct. 1, 2018">$1652.77</td>
+      <td data-type="Jan. 1, 2019">$1687.93</td>
+      <td data-type="Mar. 1, 2019">$1723.10</td>
+      <td data-type="Final">$1758.26</td>
     </tr>
     <tr>
       <td data-type="Session">Ofarim Bet**</td>
-      <td data-type="Length">Aug. 5 &ndash; Aug. 19, 2018</td>
-      <td data-type="Oct. 1, 2017">$2044.14</td>
-      <td data-type="Jan. 1, 2018">$2087.63</td>
-      <td data-type="Mar. 1, 2018">$2131.12</td>
-      <td data-type="Final">$2174.62</td>
+      <td data-type="Length">Aug. 4 &ndash; Aug. 18, 2019</td>
+      <td data-type="Oct. 1, 2018">$2103.52</td>
+      <td data-type="Jan. 1, 2019">$2148.28</td>
+      <td data-type="Mar. 1, 2019">$2193.04</td>
+      <td data-type="Final">$2237.79</td>
     </tr>
     <tr>
       <td data-type="Session">Ofarim Full**</td>
-      <td data-type="Length">July 25 &ndash; Aug. 19, 2018</td>
-      <td data-type="Oct. 1, 2017">$2936.98</td>
-      <td data-type="Jan. 1, 2018">$2999.47</td>
-      <td data-type="Mar. 1, 2018">$3061.96</td>
-      <td data-type="Final">$3124.45</td>
+      <td data-type="Length">July 24 &ndash; Aug. 18, 2019</td>
+      <td data-type="Oct. 1, 2018">$3022.30</td>
+      <td data-type="Jan. 1, 2019">$3086.61</td>
+      <td data-type="Mar. 1, 2019">$3150.91</td>
+      <td data-type="Final">$3215.22</td>
     </tr>
   </tbody>
 </table>

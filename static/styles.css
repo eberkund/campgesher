@@ -187,10 +187,11 @@ blockquote:before,
 blockquote:after {
 	color: #E1CC89;
 	content: "\f10d";
-	font-family: FontAwesome;
+	font-family: "Font Awesome 5 Free";
 	font-size: 30px;
 	position: relative;
-	left: -20px;
+    left: -20px;
+    font-weight: 900;
 }
 
 blockquote:after {

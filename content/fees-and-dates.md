@@ -12,7 +12,7 @@ Fee includes laundry, a Camp Gesher T-shirt, a camp picture and 13% HST. Transp
     <tr>
       <th rowspan="2">Session</th>
       <th rowspan="2">Length</th>
-      <th colspan="3">Early Registration Discounts</th>
+      <th colspan="3" class="text-center">Early Registration Discounts</th>
       <th colspan="1" rowspan="2">Full Fee</th>
     </tr>
     <tr>

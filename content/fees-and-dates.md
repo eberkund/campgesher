@@ -49,10 +49,10 @@ Fee includes laundry, a Camp Gesher T-shirt, a camp picture and 13% HST. Transp
     <tr>
       <td data-type="Session">Madatz*</td>
       <td data-type="Length">June 28 &ndash; Aug. 18, 2019</td>
-      <td data-type="Oct. 1, 2018">$2713.77</td>
-      <td data-type="Jan. 1, 2019">$2771.51</td>
-      <td data-type="Mar. 1, 2019">$2829.25</td>
-      <td data-type="Final">$2886.99</td>
+      <td data-type="Oct. 1, 2018">$2792.61</td>
+      <td data-type="Jan. 1, 2019">$2852.03</td>
+      <td data-type="Mar. 1, 2019">$2911.44</td>
+      <td data-type="Final">$2970.86</td>
     </tr>
     <tr>
       <td data-type="Session">Ofarim Aleph**</td>

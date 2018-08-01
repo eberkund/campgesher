@@ -32,7 +32,7 @@ The following list is a general guide based on a 10-day supply. Washing is done 
 - Laundry bag
 - Bag for toiletries
 - Shampoo & soap (biodegradable please!)
-- Toothbrush and toothpaste
+- Toothbrush & toothpaste
 - Comb and/or brush
 - Plenty of sunscreen
 - Insect repellent (we recommend a repellent that contains 30% deet)

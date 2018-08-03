@@ -6,6 +6,8 @@ var rootElement
 var measure
 var mutate
 
+install()
+
 function measureTask () {
     var nextSize = {
         w: rootElement.clientWidth,
@@ -53,7 +55,7 @@ function install (options) {
 function initMap () {
     // Create a new StyledMapType object, passing it an array of styles,
     // and the name to be displayed on the map type control.
-    var styledMapType = new google.maps.StyledMapType([
+    var styledMap = new google.maps.StyledMapType([
         {
             'elementType': 'labels',
             'stylers': [
@@ -259,6 +261,6 @@ function initMap () {
     })
 
     // Associate the styled map with the MapTypeId and set it to display.
-    map.mapTypes.set('styled_map', styledMapType)
+    map.mapTypes.set('styled_map', styledMap)
     map.setMapTypeId('styled_map')
 }

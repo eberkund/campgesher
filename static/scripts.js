@@ -1,10 +1,4 @@
 /* global google */
-/* global $ */
-
-$(function () {
-    $('[data-toggle="tooltip"]').tooltip()
-    install()
-})
 
 var size = {}
 var willMutate
@@ -253,7 +247,10 @@ function initMap () {
         zoomControlOptions: {
             position: google.maps.ControlPosition.LEFT_CENTER
         },
-        center: { lat: 44.7758898, lng: -77.3795555 },
+        center: {
+            lat: 44.7758898,
+            lng: -77.3795555
+        },
         zoom: 10,
         draggable: false,
         disableDefaultUI: true,

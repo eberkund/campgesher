@@ -27,7 +27,7 @@ Phone
 : (613) 336-2583
 
 Email
-: [campgesher63@gmail.com](mailto:campgesher63@gmail.com)
+: [mazkir@campgesher.com](mailto:mazkir@campgesher.com)
 
 Mailing Address
 : Name of child (Group name)  

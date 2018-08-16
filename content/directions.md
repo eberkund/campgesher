@@ -28,5 +28,4 @@ parent = "Contact"
 4. Pass Cloyne, turn left at the second Skootamata Lake Rd. sign (after Smart's Marina)
 5. Make a right on Addington Road #4 (the first street) and follow signs to camp
 
-<div id="map" class="full-width"></div>
-<script defer src="//maps.googleapis.com/maps/api/js?key=AIzaSyCGcNfQyA-oI_bh2qLzbjTNMtmEpZwfOsY&callback=initMap"></script>
+<div id="map" class="full-width"></div><script defer src="//maps.googleapis.com/maps/api/js?key=AIzaSyCGcNfQyA-oI_bh2qLzbjTNMtmEpZwfOsY&callback=initMap"></script>

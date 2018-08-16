@@ -1,0 +1,12 @@
+.post-container ul {
+	list-style: none;
+}
+
+.post-container ul li:before {
+	content: "";
+	width: 5px;
+	height: 5px;
+	float: left;
+	background: #e2585d;
+	margin: 10px 8px 9px -14px;
+}

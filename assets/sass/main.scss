@@ -1,8 +1,9 @@
 @import url("http://fonts.googleapis.com/css?family=Lato|Bitter:700|Vollkorn");
 
 @import "variables";
-
+@import "lists";
 @import "node_modules/bootstrap/scss/bootstrap.scss";
+@import "grid";
 
 html {
 	position: relative;
@@ -13,11 +14,6 @@ body {
 	padding-top: 73px;
 	padding-bottom: 180px;
 	font-size: 1.5;
-}
-
-h1, h2, h3, h4, h5, h6 {
-	font-family: 'Lato';
-	margin-bottom: .75rem;
 }
 
 body > footer {
@@ -58,24 +54,6 @@ a:hover {
 	color: #a0393e;
 }
 
-.full-width {
-	width: 100vw;
-	position: relative;
-	left: 50%;
-	right: 50%;
-	margin-left: -50vw;
-	margin-right: -50vw;
-
-	margin-left: calc(-1*var( --rmax)/2);
-	margin-right: calc(-1*var( --rmax)/2);
-    width: var(--rmax);
-}
-
-#map {
-    height: 500px;
-    margin-bottom: -1rem;
-}
-
 img {
 	max-width: 100%;
 }
@@ -98,34 +76,11 @@ img {
 	cursor: pointer;
 }
 
-.post-container > p,
-.post-container > h1,
-.post-container > h2,
-.post-container > h3,
-.post-container > h4,
-.post-container > h5,
-.post-container > h6,
-.post-container > ul,
-.post-container > ol,
-.post-container > dl {
-	max-width: 960px;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 0 20px;
+#map {
+    height: 500px;
+    margin-bottom: -$spacer;
 }
 
-.post-container ul {
-	list-style: none;
-}
-
-.post-container ul li:before {
-	content: "";
-	width: 5px;
-	height: 5px;
-	float: left;
-	background: #e2585d;
-	margin: 10px 8px 9px -14px;
-}
 
 /**
  * Tooltips
@@ -278,7 +233,7 @@ blockquote footer:before {
     transform: rotate(0);
 }
 
-@media (max-width: 576px) {
+@include media-breakpoint-down(sm) {
     .vertical-responsive-table thead {
         display: none;
     }

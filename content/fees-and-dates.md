@@ -7,6 +7,8 @@ parent = "About"
 
 Fee includes laundry, a Camp Gesher T-shirt, a camp picture and 13% HST. Transportation to camp on June 30 or July 24, 2019 and from camp on August 18, 2019 (to and from Toronto and Ottawa) is provided.
 
+To qualify for any of the "Early Bird" discounts, fees must be paid, in full, by the date indicated.
+
 <table class="table vertical-responsive-table table-striped table-bordered">
   <thead>
     <tr>

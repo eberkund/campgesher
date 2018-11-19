@@ -3,13 +3,18 @@
     "license": "UNLICENSED",
     "version": "1.0.0",
     "author": "Erik Berkun-Drevnig <erik.b22@gmail.com>",
+    "scripts": {
+        "build": "NF_IMAGE_VERSION=1 bash ./netlify-fix.sh && LD_LIBRARY_PATH=$(pwd)/tmp/usr/lib/x86_64-linux-gnu $(pwd)/tmp/usr/local/bin/hugo"
+    },
     "eslintConfig": {
         "extends": "eslint:recommended",
         "env": {
             "browser": true
         }
     },
-    "dependencies": {},
+    "dependencies": {
+        "bootstrap": "^4.1.2"
+    },
     "devDependencies": {
         "babel-eslint": "^8.2.2",
         "eslint": "^4.18.1"

@@ -52,6 +52,7 @@ function install (options) {
     invalidateSize()
 }
 
+// eslint-disable-next-line no-unused-vars
 function initMap () {
     // Create a new StyledMapType object, passing it an array of styles,
     // and the name to be displayed on the map type control.

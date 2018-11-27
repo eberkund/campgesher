@@ -5,14 +5,14 @@ enableEmoji = true
 enableRobotsTXT = true
 hrefTargetBlank = true
 googleAnalytics = "UA-41397217-1"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy", "section", "taxonomyTerm"]
 
 [imaging]
 quality = 95
 
 [[menu.main]]
 name = "Donate"
-url = "https://canadahelps.org/en/dn/4502"
+url = "https://www.canadahelps.org/en/charities/camp-gesher/"
 weight = 0
 
 [[menu.main]]

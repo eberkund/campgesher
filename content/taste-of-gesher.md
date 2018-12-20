@@ -4,4 +4,12 @@ title = "Taste of Gesher"
 parent = "Register"
 +++
 
-[Register](https://jewishtoronto.com/cje/camp/weekender) for Taste of Gesher 2018.
+### 2019 Dates
+Friday, July 5--Sunday, July 7  
+Grades 1--3
+
+### To Register
+
+1. Complete the [UJA registration](https://jewishtoronto.com/cje/camp/weekender/weekender-registration-form)
+2. Register [with Camp Gesher](https://gesher.campbrainregistration.com/)
+

@@ -86,7 +86,7 @@ function initMap () {
         //             'color': '#e2585d'
         //         }
         //         // {
-        //         //     "lightness": 43
+        //         //     "lightness": 43git pu
         //         // }
         //     ]
         // },
@@ -260,6 +260,10 @@ function initMap () {
         zoomControl: true,
         scaleControl: false
     })
+    new google.maps.Marker({
+        position: new google.maps.LatLng(44.864827, -77.2069978),
+        map: map
+    });
 
     // Associate the styled map with the MapTypeId and set it to display.
     map.mapTypes.set('styled_map', styledMap)

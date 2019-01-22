@@ -57,17 +57,17 @@ function initMap () {
     // Create a new StyledMapType object, passing it an array of styles,
     // and the name to be displayed on the map type control.
     var styledMap = new google.maps.StyledMapType([
-        {
-            'elementType': 'labels',
-            'stylers': [
-                {
-                    'visibility': 'off'
-                },
-                {
-                    'color': '#f49f53'
-                }
-            ]
-        },
+        // {
+        //     'elementType': 'labels',
+        //     'stylers': [
+        //         {
+        //             'visibility': 'off'
+        //         },
+        //         {
+        //             'color': '#f49f53'
+        //         }
+        //     ]
+        // },
         // {
         //     'featureType': 'landscape',
         //     'stylers': [
@@ -79,17 +79,17 @@ function initMap () {
         //         }
         //     ]
         // },
-        {
-            'featureType': 'road',
-            'stylers': [
-                {
-                    'color': '#e2585d'
-                }
-                // {
-                //     "lightness": 43
-                // }
-            ]
-        },
+        // {
+        //     'featureType': 'road',
+        //     'stylers': [
+        //         {
+        //             'color': '#e2585d'
+        //         }
+        //         // {
+        //         //     "lightness": 43
+        //         // }
+        //     ]
+        // },
         {
             'featureType': 'poi.business',
             'stylers': [

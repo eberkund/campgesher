@@ -20,6 +20,7 @@
 	<p style="color: #a1a1a1;">&copy; 2017 Camp Gesher</p>
 </footer>
 
+<script src="//instant.page/1.0.0" type="module" integrity="sha384-6w2SekMzCkuMQ9sEbq0cLviD/yR2HfA/+ekmKiBnFlsoSvb/VmQFSi/umVShadQI"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap.native/2.0.15/bootstrap-native-v4.min.js"></script>
 {{ $script := resources.Get "js/main.js" | resources.Minify }}
 <script src="{{ $script.Permalink }}"></script>

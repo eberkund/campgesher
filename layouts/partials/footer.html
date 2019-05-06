@@ -21,9 +21,9 @@
 </footer>
 
 <script src="//instant.page/1.0.0" type="module" integrity="sha384-6w2SekMzCkuMQ9sEbq0cLviD/yR2HfA/+ekmKiBnFlsoSvb/VmQFSi/umVShadQI"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap.native/2.0.15/bootstrap-native-v4.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap.native/2.0.26/bootstrap-native-v4.min.js" integrity="sha256-GlvYPu8qg3GLj5W5pC8VbjXiw+HhzSyVaWYV27ibTJY="></script>
 {{ $script := resources.Get "js/main.js" | resources.Minify }}
-<script src="{{ $script.Permalink }}"></script>
+<script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
 
 </body>
 

@@ -20,8 +20,8 @@
 	<p style="color: #a1a1a1;">&copy; 2017 Camp Gesher</p>
 </footer>
 
-<script src="//instant.page/1.0.0" type="module" integrity="sha384-6w2SekMzCkuMQ9sEbq0cLviD/yR2HfA/+ekmKiBnFlsoSvb/VmQFSi/umVShadQI" crossorigin="anonymous"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap.native/2.0.26/bootstrap-native-v4.min.js" integrity="sha256-GlvYPu8qg3GLj5W5pC8VbjXiw+HhzSyVaWYV27ibTJY=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap.native/2.0.26/bootstrap-native-v4.min.js" integrity="sha256-GlvYPu8qg3GLj5W5pC8VbjXiw+HhzSyVaWYV27ibTJY=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/1.2.2/instantpage.min.js" integrity="sha256-WiWEkc8wP9MMhCQvobAnHNJKp48A6tKBq7/+ppEqgy4=" crossorigin="anonymous"></script>
 {{ $script := resources.Get "js/main.js" | resources.Minify }}
 <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
 

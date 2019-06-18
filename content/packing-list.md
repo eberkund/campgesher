@@ -43,4 +43,4 @@ The following list is a general guide based on a 10-day supply. Washing is done 
 - Musical instruments
 - Small sports equipment (e.g., baseball glove)
 
-We discourage parents and campers from packing cell phones for camp. While some campers may use their cellphones as iPods (we also discourage electronics in general as they tend to ruin the camp experience), we reserve the right to confiscate any cell phone/electronic if we deem it necessary. If you are sending your child with a cellphone, please remove the SIM card.  Any camper found with an active SIM Card in their cellphone will have the phone confiscated for the summer. **No camper** may bring pocket knives, any sharp instruments, fire crackers or weapons of any kind to camp. All articles of this nature **will be** confiscated.
+In keeping with our screen free policy, please do not send anything with a screen. All cell phones, portable gaming devices etc, will be confiscated and returned at the end of the session. **No camper** may bring pocket knives, any sharp instruments, fire crackers or weapons of any kind to camp. All articles of this nature **will be** confiscated.

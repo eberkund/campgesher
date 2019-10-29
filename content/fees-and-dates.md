@@ -26,7 +26,7 @@ To qualify for any of the "Early Bird" discounts, fees must be paid, in full, by
   <tbody>
     <tr>
       <td data-type="Session">1st session</td>
-      <td data-type="Length">June 28 &ndash; July 21, 2020</td>
+      <td data-type="Length">June 28 &ndash; July 19, 2020</td>
       <td data-type="Nov. 1, 2019">$3814.36</td>
       <td data-type="Jan. 1, 2020">$3895.52</td>
       <td data-type="Mar. 1, 2020">$3976.67</td>
@@ -58,7 +58,7 @@ To qualify for any of the "Early Bird" discounts, fees must be paid, in full, by
     </tr>
     <tr>
       <td data-type="Session">Ofarim Aleph**</td>
-      <td data-type="Length">July 26 &ndash; Aug. 3, 2020</td>
+      <td data-type="Length">July 22 &ndash; Aug. 3, 2020</td>
       <td data-type="Nov. 1, 2019">$1896.28</td>
       <td data-type="Jan. 1, 2020">$1936.63</td>
       <td data-type="Mar. 1, 2020">$1976.97</td>

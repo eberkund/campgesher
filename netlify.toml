@@ -1,13 +1,13 @@
 [context.production.environment]
-HUGO_VERSION = "0.55.4"
+HUGO_VERSION = "0.67.0"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.55.4"
+HUGO_VERSION = "0.67.0"
 
-[[redirects]]
-from = "https://campgesher.netlify.com/*"
-to = "https://campgesher.com/:splat"
-force = true
+# [[redirects]]
+# from = "https://campgesher.netlify.com/*"
+# to = "https://campgesher.com/:splat"
+# force = true
 
 [[headers]]
 for = "*"
